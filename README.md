@@ -1,2 +1,2 @@
 # Microcytic Anemia detection using fusion of clinical report and blood smear image.
-Author-Shikha Purwar
+Author-Shikha Purwar(Author)
